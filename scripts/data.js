@@ -21,7 +21,7 @@ const departments = {
             },
             {
                 title: "Marktonderzoeksanalist",
-                description: "Een marktonderzoeksanalist voert diepgaand onderzoek uit om gegevens te verzamelen en te analyseren over markttrends, consumentenvoorkeuren en concurrentieactiviteiten. Ze ontwerpen en voeren enquêtes, focusgroepen en interviews uit om relevante informatie te verzamelen. Ze interpreteren gegevens, genereren inzichten en bereiden rapporten voor met bruikbare aanbevelingen. Ze helpen bedrijven geïnformeerde beslissingen te nemen over productontwikkeling, doelmarkten, prijsstrategieën en marketingcampagnes."
+                description: "Een marktonmarketingderzoeksanalist voert diepgaand onderzoek uit om gegevens te verzamelen en te analyseren over markttrends, consumentenvoorkeuren en concurrentieactiviteiten. Ze ontwerpen en voeren enquêtes, focusgroepen en interviews uit om relevante informatie te verzamelen. Ze interpreteren gegevens, genereren inzichten en bereiden rapporten voor met bruikbare aanbevelingen. Ze helpen bedrijven geïnformeerde beslissingen te nemen over productontwikkeling, doelmarkten, prijsstrategieën en marketingcampagnes."
             },
         ],
     },
